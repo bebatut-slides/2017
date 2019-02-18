@@ -1,0 +1,104 @@
+,title,date,days,loc_latitude,loc_longitude
+2017-01-23-aberdeen-rna-seq,RNA Sequencing and Differential Expression,2017-01-23 00:00:00,1,57.16408,-2.1017651
+2017-01-24-aberdeen-rna-seq,Advanced RNA Sequencing (RNA-seq) Analysis,2017-01-24 00:00:00,1,57.16408,-2.1017651
+2017-02-biogenomics-workshop,Bioinformatics Workshops on Galaxy and Metagenomics,2017-02-20 00:00:00,1,31.8683534,-102.3967045
+2017-02-qfab-assembly,Genome assembly using Galaxy,2017-02-28 00:00:00,1,-27.49741805,153.013162569795
+2017-03-cruk-cambridge, Introduction to Galaxy - Data Manipulation and Visualisation,2017-03-07 00:00:00,1,52.2033051,0.124862
+2017-03-fda,RNA-seq analysis using Galaxy,2017-03-06 00:00:00,1,31.8683534,-102.3967045
+2017-03-gvl-qld,Galaxy-qld User Group,2017-03-01 00:00:00,1,-27.49741805,153.013162569795
+2017-03-qfab-rnaseq,RNA-seq analysis using Galaxy,2017-03-01 00:00:00,1,-27.49741805,153.013162569795
+2017-03-qfab-var,Variant detection using Galaxy,2017-03-02 00:00:00,1,-27.49741805,153.013162569795
+2017-05-arabic,Introduction to Genomics in Medicine Using Galaxy  Platform,2017-05-04 00:00:00,1,30.7835637,30.9983376
+2017-05-w4e,Workflow4Experimenters International Course,2017-05-29 00:00:00,5,48.8566101,2.3514992
+2017-06-g-on-ramp,G-OnRamp Beta Testers Workshop,2017-06-20 00:00:00,3,38.6482539,-90.3062812
+2017-07-g-on-ramp,G-OnRamp Beta Testers Workshop,2017-07-25 00:00:00,3,38.6482539,-90.3062812
+2017-08-qfab-assembly,Genome assembly using Galaxy,2017-08-02 00:00:00,2,-27.4976037,153.0079711
+2017-09-denbi,Computational Genomics and RNA Biology,2017-09-25 00:00:00,5,52.6246791,13.5019993958776
+2017-09-qfab-rnaseq,RNA-Seq analysis using Galaxy,2017-09-13 00:00:00,2,-27.4976037,153.0079711
+2017-egdw,European Galaxy Developer Workshop,2017-01-16 00:00:00,4,48.584614,7.7507127
+2017-game-admin-training,Galaxy Admin Training,2017-02-06 00:00:00,4,-37.79723905,144.958447436833
+2017-game-conf,GAMe 2017 Conference,2017-02-04 00:00:00,2,-37.79723905,144.958447436833
+2017-game-training,Researcher Training Day for Life Scientists,2017-02-03 00:00:00,1,-37.79723905,144.958447436833
+2017-gcc,2017 Galaxy Community Conference (GCC2017),2017-06-26 00:00:00,5,-16.5405424,-68.0673001
+2017-genome-10k,'The Galaxy Bioinformatics Platform,2017-09-01 00:00:00,1,52.628606,1.29227
+2017-kogo,From Galaxy to Genomics using NGS Data,2017-02-08 00:00:00,3,37.8179963,128.2183835
+2017-korea-catholic-u,Introduction to Galaxy,2017-02-07 00:00:00,1,37.50037255,127.005518486886
+2017-kthrd,Introduction to Galaxy,2017-02-06 00:00:00,1,36.3326329,127.3845762
+2017-mt-sinai,Introdution to Galaxy Workshops,2017-02-22 00:00:00,2,40.7306458,-73.9866136
+2017-smbe,Computation and reproducibility in molecular evolution,2017-07-02 00:00:00,5,30.2711286,-97.7436995
+galaxy_rna-sequencing_data_analysis_workshop,Galaxy RNA-sequencing data analysis workshop,2016-12-15 00:00:00,1,,
+les_pré-inscriptions_sont_ouvertes_jusqu'au_15_juillet_2016,Les pré-inscriptions sont ouvertes jusqu'au 15 juillet 2016,2016-11-28 00:00:00,4,48.72703215,-3.98748157444411
+genome_assembly_and_annotation,Genome Assembly and Annotation,2016-11-29 00:00:00,1,57.16408,-2.1017651
+ecole_bioinformatique_aviesan,Ecole Bioinformatique AVIESAN,2016-11-20 00:00:00,5,48.72703215,-3.98748157444411
+application_deadline_is_july_15,Application deadline is July 15,2016-11-08 00:00:00,12,40.85905,-73.4681574
+quality_control_of_next_generation_sequencing_reads,Quality Control of Next Generation Sequencing Reads,2016-11-16 00:00:00,1,57.16408,-2.1017651
+introduction_to_galaxy_workshop,Introduction to Galaxy Workshop,2015-02-27 00:00:00,1,42.0551164,-87.6758111348217
+galaxy_admin_training:_advanced,Galaxy Admin Training: Advanced,2016-11-09 00:00:00,2,,
+introduction_to_the_gvl_and_galaxy,Introduction to the GVL and Galaxy,2016-06-07 00:00:00,1,,
+galaxy_admin_training:_introduction,Galaxy Admin Training: Introduction,2016-11-07 00:00:00,1,,
+galaxy4bioinformatics,Galaxy4Bioinformatics,2016-10-18 00:00:00,2,,
+_registration_closes_4_october, Registration closes 4 October,2016-10-10 00:00:00,3,,
+ngs_course:_rna-seq_data_analysis,NGS Course: RNA-seq data analysis,2016-09-26 00:00:00,2,,
+this_workshop_is_full,This workshop is full,2016-09-19 00:00:00,4,,
+exome_analysis_using_galaxy,Exome analysis using Galaxy,2016-09-19 00:00:00,1,,
+"using_galaxy_for_analysis_of_rna-seq,_exome-seq,_and_variants","Using Galaxy for Analysis of RNA-Seq, Exome-Seq, and Variants",2016-08-29 00:00:00,4,,
+introduction_to_galaxy_workflows,Introduction to Galaxy Workflows,2016-08-09 00:00:00,1,,
+integrating_ontological_and_genomic_analysis_with_galaxy_workshop,Integrating Ontological and Genomic Analysis with Galaxy Workshop,2016-08-01 00:00:00,3,,
+introduction_to_galaxy,Introduction to Galaxy,2015-10-08 00:00:00,1,,
+2016_galaxy_community_conference_(gcc2016),2016 Galaxy Community Conference (GCC2016),2016-06-25 00:00:00,4,39.86948105,-84.8795690544362
+using_galaxy_for_analysis_of_rna-seq_and_chip-seq_data,Using Galaxy for Analysis of RNA-Seq and ChIP-Seq Data,2016-06-13 00:00:00,4,,
+rna-seq_differential_gene_expression_analysis_using_the_gvl_and_galaxy,RNA-Seq Differential Gene Expression Analysis using the GVL and Galaxy,2016-06-14 00:00:00,1,,
+informatics_on_high-throughput_sequencing_data,Informatics on High-throughput Sequencing Data,2015-06-10 00:00:00,1,,
+64th_asms_conference_on_mass_spectrometry_and_allied_topics,64th ASMS Conference on Mass Spectrometry and Allied Topics,2016-06-05 00:00:00,4,,
+variant_calling_with_galaxy_and_the_gvl_for_beginners,Variant Calling with Galaxy and the GVL for beginners,2016-06-08 00:00:00,1,,
+galaxy_:_rnaseq_alignment_and_transcripts_assemblies,Galaxy : RNAseq alignment and transcripts assemblies,2016-05-19 00:00:00,1,,
+galaxy_first_step,Galaxy First Step,2016-05-17 00:00:00,1,,
+galaxy:_reads_alignment_and_snp_calling,Galaxy: Reads alignment and SNP calling,2016-05-18 00:00:00,1,,
+rna-seq_and_dna-seq_cancer_analyses,RNA-Seq and DNA-Seq Cancer Analyses,2016-05-12 00:00:00,1,,
+variant_detection_using_galaxy_workshop,Variant detection using Galaxy Workshop,2016-05-06 00:00:00,1,,
+de_novo_genome_assembly_using_genomics_virtual_lab_workshop,De novo genome assembly using Genomics Virtual Lab Workshop,2016-05-05 00:00:00,1,,
+galaxy_devops_workshop_-_galaxy_and_galaxy_tools_deployment_strategies,Galaxy DevOps Workshop - Galaxy and Galaxy tools deployment strategies,2016-04-06 00:00:00,1,49.4093582,8.694724
+introduction_à_l'analyse_de_données_rnaseq_sous_galaxy,Introduction à l'analyse de données RNAseq sous Galaxy,2015-02-06 00:00:00,1,48.1113387,-1.6800198
+formation_cloud_et_galaxy_ifb_pour_france_génomique,Formation Cloud et Galaxy IFB pour France Génomique,2016-02-29 00:00:00,3,,
+(sw4)_the_galaxy_platform_for_multi-omic_data_analysis_and_informatics,(SW4) The Galaxy Platform for Multi-Omic Data Analysis and Informatics,2016-02-20 00:00:00,3,,
+analyse_bioinformatique_de_séquences_sous_galaxy,Analyse bioinformatique de séquences sous Galaxy,2015-02-09 00:00:00,4,43.6112422,3.8767337
+initiation_à_la_plateforme_web_galaxy,Initiation à la plateforme web GALAXY,2015-04-08 00:00:00,1,48.1113387,-1.6800198
+initiation_à_l’environnement_unix_et_à_la_plateforme_galaxy,Initiation à l’environnement UNIX et à la plateforme GALAXY,2016-02-08 00:00:00,1,,
+plant_and_animal_genome_(pag_xxiv),Plant and Animal Genome (PAG XXIV),2016-01-09 00:00:00,4,,
+rna-seq_analysis_using_galaxy,RNA-Seq analysis using Galaxy,2015-03-02 00:00:00,1,,
+advanced_rna-seq_dge_with_galaxy,Advanced RNA-Seq DGE with Galaxy,2015-11-25 00:00:00,1,,
+analyse_de_données_rna-seq_sous_l’environnement_galaxy,Analyse de données RNA-seq sous l’environnement Galaxy,2015-11-15 00:00:00,1,45.9282235,10.8923377
+rna-seq_differential_gene_expression_analysis_using_galaxy,RNA-Seq Differential Gene Expression Analysis using Galaxy,2015-11-05 00:00:00,1,,
+galaxy_for_the_analysis_of_very_large_biomedical_data_workshop,Galaxy for the Analysis of Very Large Biomedical Data Workshop,2015-11-03 00:00:00,1,,
+computational_&_comparative_genomics_course,Computational & Comparative Genomics Course,2015-10-28 00:00:00,6,,
+introduction_to_proteomics_with_galaxy,Introduction to Proteomics with Galaxy,2015-10-29 00:00:00,1,,
+_, ,2015-10-28 00:00:00,1,,
+variant_calling_with_galaxy_(beginners),Variant calling with Galaxy (beginners),2015-10-20 00:00:00,1,,
+next_generation_sequencing_(ngs)_data_analysis,Next generation sequencing (NGS) data analysis,2015-09-28 00:00:00,2,53.22310875,6.57414025254999
+traitement_des_données_métabolomiques_sous_galaxy,Traitement des données métabolomiques sous Galaxy,2015-09-21 00:00:00,4,,
+using_galaxy_for_analysis_of_high_throughput_sequence_data,Using Galaxy for Analysis of High Throughput Sequence Data,2015-09-14 00:00:00,4,,
+rna-seq_data_analysis_ngs_course,RNA-seq data analysis NGS Course,2015-09-07 00:00:00,2,,
+an_introduction_to_galaxy_with_the_genomics_virtual_lab:_workshop,An Introduction to Galaxy with the Genomics Virtual Lab: workshop,2015-07-06 00:00:00,4,,
+training_sunday,Training SunDay,2015-07-05 00:00:00,1,,
+initiation_à_l'analyse_de_données_de_type_rad_par_le_pipeline_stacks_sous_galaxy,Initiation à l'analyse de données de type RAD par le pipeline STACKS sous Galaxy,2015-06-25 00:00:00,1,,
+massively_parallel_sequence_data_analysis_workshop_(introduction_to_galaxy_framework_for_variant_calling),Massively parallel sequence data analysis workshop (introduction to Galaxy framework for variant calling),2015-06-22 00:00:00,1,,
+introduction_to_galaxy:_rna-seq_and_chip-seq_data_analysis_workshop,Introduction to Galaxy: RNA-seq and ChIP-seq data analysis Workshop,2015-06-11 00:00:00,1,52.17638955,0.143088815415187
+"workshop_is_full,_but_there_is_a_waiting_list","Workshop is full, but there is a waiting list",2015-06-08 00:00:00,1,55.87230815,-4.28922544277935
+ws02:_ngs_variant_analysis_with_galaxy,WS02: NGS Variant Analysis with Galaxy,2015-06-06 00:00:00,3,,
+workshop:_rna-seq_analysis_using_galaxy,Workshop: RNA-Seq analysis using Galaxy,2015-06-03 00:00:00,1,,
+introduction_to_galaxy_for_next_generation_sequencing_analysis,Introduction to Galaxy for Next Generation Sequencing Analysis,2015-05-27 00:00:00,1,,
+rna-seq_galaxy_workshop,RNA-Seq Galaxy Workshop,2015-05-15 00:00:00,1,41.1272027,-78.7520584
+workshop:_variant_detection_using_galaxy,Workshop: Variant detection using Galaxy,2015-03-23 00:00:00,1,,
+getting_bioinformatics_done_with_galaxy,Getting Bioinformatics Done with Galaxy,2015-05-13 00:00:00,1,,
+high-throughput_biology:_from_sequence_to_networks_2015,High-throughput Biology: From Sequence to Networks 2015,2015-04-27 00:00:00,6,,
+workshop:_extended_rna-seq_analysis,Workshop: Extended RNA-Seq analysis,2015-04-20 00:00:00,1,,
+5th_guggo_meeting,5th GUGGO meeting,2015-04-07 00:00:00,1,48.1113387,-1.6800198
+workshop:_ngs_analysis_and_workflows_using_galaxy,Workshop: NGS Analysis and Workflows using Galaxy,2015-04-01 00:00:00,1,37.4383017,-122.1561814
+rna-seq_and_chip-seq_analysis_with_galaxy,RNA-Seq and ChIP-Seq Analysis with Galaxy,2015-03-23 00:00:00,3,,
+using_galaxy_workshop,Using Galaxy Workshop,2015-03-17 00:00:00,1,40.78791245,-77.8538859448932
+développement_et_intégration_d’applications_sous_galaxy,Développement et intégration d’applications sous Galaxy,2015-03-03 00:00:00,2,47.2996846,-1.5518632
+workshop_on_bioinformatics_methods_in_genomics,Workshop on Bioinformatics Methods in Genomics,2015-03-02 00:00:00,1,17.4058277,78.4674199
+variant_detection_using_galaxy,Variant Detection Using Galaxy,2015-02-27 00:00:00,1,-33.88902715,151.189420694852
+bioinformatics_galaxy_course,Bioinformatics Galaxy Course,2015-02-23 00:00:00,4,51.1138909,7.5249581
+intégration_d’outils_dans_la_plateforme_web_galaxy,Intégration d’outils dans la plateforme web Galaxy,2015-02-24 00:00:00,1,48.1113387,-1.6800198
+pag2017,PAG 2017,2017-01-14 00:00:00,5,32.7174209,-117.1627714
